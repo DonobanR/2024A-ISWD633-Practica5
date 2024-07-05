@@ -1,3 +1,1 @@
-# COMPLETAR  
-Comparando sus conocimientos antes de hacer la práctica con sus conocimientos después de hacer la tarea, explicar los principales aprendizajes logrados para beneficio de su formación profesional.  
-Si solucionó un problema presentado al realizar la práctica también se debe documentar.
+Utilizar Docker Compose simplifica la configuración y gestión de servicios complejos como SonarQube y PostgreSQL, facilitando su despliegue y acceso localmente.
